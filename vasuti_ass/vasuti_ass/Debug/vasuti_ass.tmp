@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>F:\suli\hazi\vasuti_ass\vasuti_ass\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\suli\hazi\vasuti_ass\vasuti_ass\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\suli\hazi\vasuti_ass\vasuti_ass\Debug\vasuti_ass.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>vasuti_ass.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>vasuti_ass.map</FILE>
+  <FILE>vasuti_ass.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>F:\suli\hazi\vasuti_ass\vasuti_ass\main.asm</FILE><LINE>26</LINE></MAIN>
+  <ISRT0><FILE>F:\suli\hazi\vasuti_ass\vasuti_ass\main.asm</FILE><LINE>73</LINE></ISRT0>
+  <LOOP><FILE>F:\suli\hazi\vasuti_ass\vasuti_ass\main.asm</FILE><LINE>51</LINE></LOOP>
+  <LEZAR><FILE>F:\suli\hazi\vasuti_ass\vasuti_ass\main.asm</FILE><LINE>60</LINE></LEZAR>
+  <KINYIT><FILE>F:\suli\hazi\vasuti_ass\vasuti_ass\main.asm</FILE><LINE>65</LINE></KINYIT>
+  <ISRT0VEGE><FILE>F:\suli\hazi\vasuti_ass\vasuti_ass\main.asm</FILE><LINE>129</LINE></ISRT0VEGE>
+  <NYIT><FILE>F:\suli\hazi\vasuti_ass\vasuti_ass\main.asm</FILE><LINE>86</LINE></NYIT>
+  <ZAR><FILE>F:\suli\hazi\vasuti_ass\vasuti_ass\main.asm</FILE><LINE>107</LINE></ZAR>
+  <BEKAPCS><FILE>F:\suli\hazi\vasuti_ass\vasuti_ass\main.asm</FILE><LINE>101</LINE></BEKAPCS>
+  <KIKAPCS><FILE>F:\suli\hazi\vasuti_ass\vasuti_ass\main.asm</FILE><LINE>96</LINE></KIKAPCS>
+  <LED6><FILE>F:\suli\hazi\vasuti_ass\vasuti_ass\main.asm</FILE><LINE>118</LINE></LED6>
+  <LED7><FILE>F:\suli\hazi\vasuti_ass\vasuti_ass\main.asm</FILE><LINE>123</LINE></LED7>
+ </LABELS>
+</ASSEMBLER_INFO>
